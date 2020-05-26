@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login Sample</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Clave</string>
+    <string name="submit">Ingresar</string>
+    <string name="confirm">Iniciando sesión </string>
+    <string name="welcome">Inicio de sesión</string>
+</resources>
